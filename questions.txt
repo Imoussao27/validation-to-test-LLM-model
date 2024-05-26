@@ -1,0 +1,87 @@
+
+
+questions = [ "How does the use of position-specific models of evolution affect the estimation of evolutionary distances?",
+
+"What can we do with machine learning in biology?",
+
+" How has machine learning transformed protein research in biology?",
+
+"What are the recent advancements in deep learning techniques for protein function classification? " ,
+
+"How are deep learning models used for protein function prediction? ",
+
+" What are the key roles of Vitamin D in the body?",
+
+" What factors contribute to Vitamin D deficiency in children?",
+
+"How does vitamin D impact COVID-19 outcomes in minority populations? " ,
+
+"How does nutrition impact fencing performance?" ,
+
+"How can elite fencing athletes optimize their diet for performance and recovery, while also addressing gastrointestinal discomfort during competitions?",
+
+" How do dietary strategies contribute to optimizing performance and supporting recovery in elite fencing athletes? ",
+
+"How does meal timing and composition contribute to the performance and recovery of elite fencing athletes? ",
+
+"How does solar ultraviolet B radiation impact the synthesis of vitamin D in the epidermis ? ",
+
+"What factors contribute to vitamin D deficiency in the population?",
+
+" How does vitamin D contribute to the innate immune response?",
+
+" How does vitamin D contribute to the activation of macrophages in the innate immune response?",
+
+"What factors contribute to the development of autoimmune diseases? ",
+
+"How does vitamin D influence the immune system in the context of autoimmune diseases?",
+
+" What is the effect of Vitamin D on T-cell regulation? ",
+
+"How does the presence of Vitamin D influence the regulation of T-cells under different regulation regimes? ",
+
+"What is the relationship between the presence of vitamin D and the regulation of immune response, particularly in terms of tolerance towards pathogenic stimulation? ",
+
+" How does the presence of vitamin D affect the regulation of immune response ?" ,
+
+" How does the form in which vitamin D3 is consumed affect its bioavailability and absorption in the body?" ,
+
+"How do cancer patients and survivors in Norway adapt their diets and use dietary supplements following diagnosis?",
+
+" What factors influence these dietary choices?",
+
+"How does vitamin D synthesis in the epidermis relate to environmental and individual factors, and what role does residential greenness play in this process? ",
+
+" What is the historical significance of vitamin D in disease treatment, particularly in relation to tuberculosis and lupus vulgaris?",
+
+" How does the bioaccessibility of vitamin D3 compare between different forms of supplements and foods?",
+
+"What factors influence the stability and bioaccessibility of vitamin D3 during digestion? ",
+
+ " How does the form of vitamin D3 supplementation and food matrix impact its bioavailability and stability during digestion? ",
+
+" What factors influence the synthesis of vitamin D through sun exposure and what are the potential risks associated with prolonged exposure?",
+
+"What were the effects of the gastric and intestinal phases on vitamin D3 content in various food matrices? ",
+
+"How did pH variations impact vitamin D3 stability and bioaccessibility? ",
+
+"How does the absence or low concentration of vitamin D affect the immune response? ",
+
+" How does the presence of an optimal level of vitamin D influence the immune response? ",
+
+" How prevalent is cancer in Norway, and what are the common types and survival rates?",
+
+"How do cancer patients in Norway approach dietary changes and supplement use, and what are the reasons behind these changes? ",
+
+" What is the significance of nutrients in the human body, and how do they relate to disease development and progression?",
+
+" How are food-disease relationships traditionally studied, and what are the limitations of existing methods? ",
+
+"What is the NutriFD database, and how does it address existing gaps in food-disease research? ",
+
+" What factors influence the tenderness of ostrich meat during cooking? ",
+
+" Why is it important to study the effects of cooking methods on ostrich meat? "
+
+]
